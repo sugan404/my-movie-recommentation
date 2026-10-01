@@ -4,7 +4,7 @@ A modern, interactive movie recommendation web application that helps users disc
 
 ## 🌟 Live Demo
 
-Check out the live application: **[https://suganrajtech-jpg.github.io/my-movie-recommentation/](https://suganrajtech-jpg.github.io/my-movie-recommentation/)**
+Check out the live application: **[https://sugan404.github.io/my-movie-recommentation/)**
 
 ## 🚀 Features
 
